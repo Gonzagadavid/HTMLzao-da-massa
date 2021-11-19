@@ -54,7 +54,10 @@ Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomen
 
 ## Efetue as alterações necessárias e faça um Commit
 
-Agora abra o arquivo faça sua contribuição salve o arquivo. 
+- Adicione uma imagem e uma frase no arquivo `index.html`
+- Adicione seu nome no arquivo `pessoas_contribuidoras.md`
+- Adicione as mudança `git add .`
+- Faça o commit `git commit -m "sua mensagem aqui"`  
 
 <img align="right" width="450" src="./assets/git-status.png" alt="git status" />
 
