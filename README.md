@@ -85,7 +85,7 @@ Se você for para o seu repositório no GitHub, verá um botão `Compare & pull 
 
 <img style="float: right;" src="./assets/compare-and-pull.png" alt="Crie um Pull Request" />
 
-Agora envie um Pull Request.
+Agora envie um Pull Request para `base fork: Gonzagadavid/HTMLzao-da-massa`.
 
 <img style="float: right;" src="./assets/submit-pull-request.png" alt="Envie o Pull Request" />
 
