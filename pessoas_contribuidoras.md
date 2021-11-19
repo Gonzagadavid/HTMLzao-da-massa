@@ -6,4 +6,7 @@
 
 - [Otto Micheletti](https://github.com/ottomicheletti)
 
-- [Paula Ribeiro] (https://github.com/PaulaSalinoRibeiro)
+- [Paula Ribeiro](https://github.com/PaulaSalinoRibeiro)
+
+- [Lucas A. Santos](https://github.com/lucasquearis)
+
