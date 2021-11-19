@@ -30,9 +30,9 @@ onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as et
 
 Por exemplo:
 ```
-git clone git@github.com:Gonzagadavid/HTMLzao-da-massa.git
+git clone git@github.com:seu-usuário/HTMLzao-da-massa.git
 ```
-onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
+onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório HTMLzao-da-massa para o seu computador.
 
 ## Crie um Branch
 
