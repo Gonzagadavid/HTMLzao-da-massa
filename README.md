@@ -67,7 +67,7 @@ git add .
 ```
 Agora faça um Commit dessas alterações utilizando o comando `git commit`:
 ```
-git commit -m "Add <seu-nome> to Contributors list"
+git commit -m "Add <seu-nome> "
 ```
 preenchendo `<seu-nome>` com o seu nome.
 
