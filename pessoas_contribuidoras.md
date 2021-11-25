@@ -2,6 +2,8 @@
 
 - [David Gonzaga](https://github.com/Gonzagadavid)
 
+- [Diogo Martini Pantaleão](ogoiddev.github.io)
+
 - [Andre Sousa](https://github.com/dedojs)
 
 - [Otto Micheletti](https://github.com/ottomicheletti)
