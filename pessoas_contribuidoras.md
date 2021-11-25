@@ -2,6 +2,8 @@
 
 - [David Gonzaga](https://github.com/Gonzagadavid)
 
+- [Débora Schuch](https://github.com/StarAmbients)
+
 - [Diogo Martini Pantaleão](ogoiddev.github.io)
 
 - [Andre Sousa](https://github.com/dedojs)
