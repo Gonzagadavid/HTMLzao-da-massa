@@ -30,9 +30,9 @@ onde "url que copiou" (sem as aspas) é a URL deste repositório. Consulte as et
 
 Por exemplo:
 ```
-git clone https://github.com/seu-usuario/first-contributions.git
+git clone git@github.com:seu-usuário/HTMLzao-da-massa.git
 ```
-onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
+onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório HTMLzao-da-massa para o seu computador.
 
 ## Crie um Branch
 
@@ -85,7 +85,7 @@ Se você for para o seu repositório no GitHub, verá um botão `Compare & pull 
 
 <img style="float: right;" src="./assets/compare-and-pull.png" alt="Crie um Pull Request" />
 
-Agora envie um Pull Request.
+Agora envie um Pull Request para `base fork: Gonzagadavid/HTMLzao-da-massa`.
 
 <img style="float: right;" src="./assets/submit-pull-request.png" alt="Envie o Pull Request" />
 
