@@ -13,3 +13,5 @@
 - [Lucas A. Santos](https://github.com/lucasquearis)
 
 - [Marcilio Lima](https://github.com/MarcilioamiL)
+
+- [Emanuel Calado](https://github.com/emanuelklado)
