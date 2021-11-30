@@ -4,4 +4,21 @@
 }
 body {
     background-color: linear-gradient(0deg, rgb(205, 254, 224), rgb(235, 242, 255));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    border: solid;
+    background-image: url(horizonte-1-1024x681.jpg);
+    background-position: 0 50%;
+    background-size: cover;
+    position: sticky;
+    top: 0;
+    padding: 30px;
+
+}
+header h1, h2 {
+    color: whitesmoke;
+}
+main {
+    padding: 15px;
 }
