@@ -9,6 +9,7 @@ body {
 
 header {
     color: black;
+    columns: d;
     background-image: url(horizonte2.jpg);
     background-position: 0 76%;
     background-size: cover;
